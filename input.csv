@@ -1,3 +1,3 @@
-sku,source_title,category,brand,keywords,description
-A001,"Women's winter beanie hat, black","Apparel Accessories","Generic","women beanie,winter hat,knit cap","Soft black winter beanie for women, suitable for daily wear and cold weather."
-A002,"Stainless steel water bottle 1L, blue","Drinkware","Generic","water bottle,stainless steel bottle,1L bottle","Blue 1L stainless steel water bottle for outdoor, office, gym and daily hydration."
+sku,title,category,brand
+A001,"Women's winter beanie hat, black","Apparel Accessories","Generic"
+A002,"Stainless steel water bottle 1L, blue","Drinkware","Generic"
