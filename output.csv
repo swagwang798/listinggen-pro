@@ -1,3 +1,15 @@
-sku,generated_title,keyword_1,keyword_2,keyword_3,bullet_1,bullet_2,bullet_3,bullet_4,bullet_5,product_description,status
-A001,"Black Winter Beanie Hat for Women, Soft Knit Cold Weather Cap","women beanie","winter hat","knit cap","Soft knit fabric helps keep you warm in cold weather.","Simple black color pairs easily with winter outfits.","Lightweight design makes it comfortable for daily wear.","Stretchy fit works well for most head sizes.","Suitable for commuting, outdoor walks, travel and casual use.","Stay warm in a clean and simple style with this black winter beanie for women. The soft knit texture is designed for daily comfort, while the classic color makes it easy to match with coats, sweaters and casual outfits. It is suitable for cold-weather commuting, outdoor walks, travel and everyday wear.","READY"
-A002,"Blue 1L Stainless Steel Water Bottle for Gym, Office and Outdoor Use","water bottle","stainless steel bottle","1L bottle","1L capacity supports daily hydration needs.","Stainless steel body is suitable for repeated daily use.","Blue finish gives the bottle a clean and practical look.","Portable design works for office, gym, travel and outdoor use.","Wide daily-use scenario makes it easy to carry and refill.","This blue 1L stainless steel water bottle is designed for daily hydration at work, in the gym, during travel or outdoors. Its practical capacity helps reduce frequent refilling, while the stainless steel body supports repeated use. The clean blue appearance makes it suitable for both casual and professional daily scenarios.","READY"
+sku,task,ok,output_text,error,latency_ms,model
+A001,title,True,"Black Winter Beanie Hat for Women, Soft Knit Cold Weather Cap",,1280,doubao-lite-32k
+A002,title,True,"Blue 1L Stainless Steel Water Bottle for Gym, Office and Outdoor Use",,1350,doubao-lite-32k
+A001,bullets,True,"Soft knit fabric helps keep you warm in cold weather.
+Simple black color pairs easily with winter outfits.
+Lightweight design makes it comfortable for daily wear.
+Stretchy fit works well for most head sizes.
+Suitable for commuting, outdoor walks, travel and casual use.",,1560,doubao-lite-32k
+A002,bullets,True,"1L capacity supports daily hydration needs.
+Stainless steel body is suitable for repeated daily use.
+Blue finish gives the bottle a clean and practical look.
+Portable design works for office, gym, travel and outdoor use.
+Suitable for office, gym, travel and outdoor hydration.",,1620,doubao-lite-32k
+A001,desc,True,"Stay warm in a clean and simple style with this black winter beanie for women. The soft knit texture is designed for daily comfort, while the classic black color makes it easy to match with coats, sweaters and casual outfits. It is suitable for commuting, outdoor walks, travel and everyday cold-weather wear.",,1810,doubao-lite-32k
+A002,desc,True,"This blue 1L stainless steel water bottle is designed for daily hydration at work, in the gym, during travel or outdoors. Its practical capacity helps reduce frequent refilling, while the stainless steel body supports repeated use. The clean blue appearance makes it suitable for both casual and professional daily scenarios.",,1740,doubao-lite-32k
